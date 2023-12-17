@@ -26,12 +26,6 @@ body {
     display: none;
 }
 
-
-/* .main {
- display: flex;
- gap: 20px;
-} */
-
 .flex-container {
     display: flex;
     flex-direction: column;
