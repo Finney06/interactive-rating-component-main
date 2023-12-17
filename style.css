@@ -31,7 +31,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 98vh;
+    height: 97vh;
     opacity: 0; 
     animation: fadeInUp 1s forwards;
 }
